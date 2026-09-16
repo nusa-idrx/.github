@@ -32,6 +32,7 @@ If you believe you have found a security vulnerability in IDRX contracts, apps, 
 - Website: https://idrx.co
 - X / Twitter: [@idrx_co](https://x.com/idrx_co)
 - Telegram: https://t.me/officialidrx
+- Medium: https://medium.com/@idrx
 
 ---
 
