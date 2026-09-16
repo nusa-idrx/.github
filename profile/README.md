@@ -25,7 +25,7 @@ Only trust addresses published there or on [idrx.co](https://idrx.co).
 
 ## Security
 
-If you believe you have found a security vulnerability in IDRX contracts, apps, or infrastructure, please report it privately rather than opening a public issue. Reach us through the contact channels on [idrx.co](https://idrx.co) and we will respond as quickly as we can.
+If you believe you have found a security vulnerability in IDRX contracts, apps, or infrastructure, please report it privately to **[support@idrx.co](mailto:support@idrx.co)** rather than opening a public issue. We will respond as quickly as we can.
 
 ## Community
 
