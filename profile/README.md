@@ -16,17 +16,6 @@ Supported chains and official contract addresses are always listed in the docs:
 
 Only trust addresses published there or on [idrx.co](https://idrx.co).
 
-## Public repositories
-
-| Repository | What it is |
-|---|---|
-| [`idrx-contract`](https://github.com/nusa-idrx/idrx-contract) | IDRX ERC-20 token contract (upgradeable, burnable) |
-| [`idyx-contract`](https://github.com/nusa-idrx/idyx-contract) | IDYX yield-bearing token, vault and distribution contracts |
-| [`idrx-stellar`](https://github.com/nusa-idrx/idrx-stellar) | IDRX on Stellar (Soroban) |
-| [`idrx-safe-indexer`](https://github.com/nusa-idrx/idrx-safe-indexer) | Ponder-based indexer for Safe multisig transactions that mint IDRX |
-
-Most of our application code (backend services, dashboards, infrastructure) lives in private repositories.
-
 ## For developers & partners
 
 - **Documentation:** https://docs.idrx.co
